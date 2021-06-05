@@ -1,0 +1,23 @@
+{
+  "name": "pastebin",
+  "version": "0.1.0",
+  "description": "A react-express pastebin application, using a mySQL DB and Passport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogoidmatos/pastebin.git"
+  },
+  "keywords": [
+    "pastebin",
+    "express",
+    "react"
+  ],
+  "author": "Diogo Matos",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ogoidmatos/pastebin/issues"
+  },
+  "homepage": "https://github.com/ogoidmatos/pastebin#readme"
+}

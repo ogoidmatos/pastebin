@@ -1,0 +1,36 @@
+{
+  "name": "pastebin-backend",
+  "version": "0.1.0",
+  "description": "Backend for the pastebin application.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogoidmatos/pastebin.git"
+  },
+  "keywords": [
+    "backend",
+    "express",
+    "node",
+    "mySQL",
+    "passport"
+  ],
+  "author": "Diogo Matos",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ogoidmatos/pastebin/issues"
+  },
+  "homepage": "https://github.com/ogoidmatos/pastebin#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

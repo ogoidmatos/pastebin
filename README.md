@@ -1,2 +1,3 @@
 # pastebin
-A react-express pastbin application, using a mySQL DB and Passport.js
+
+A react-express pastebin application, using a mySQL DB and Passport.js
